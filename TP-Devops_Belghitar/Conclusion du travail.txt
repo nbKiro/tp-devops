@@ -1,0 +1,14 @@
+Ce TP DevOps a permis de mettre en œuvre une chaîne de déploiement complète pour une architecture mobile back-end, couvrant les aspects de conteneurisation, d'orchestration, d'intégration continue et de distribution d'images.
+Les Modules 1 à 6 ont été intégralement réalisés :
+
+Mise en place de la persistance des données avec Docker volumes et contraintes de production (Module 1)
+
+Orchestration des services avec Docker Compose et résolution des dépendances techniques (Modules 2 et 4)
+
+Création d'un Dockerfile optimisé et automatisation du build (Module 3)
+
+Publication de l'image sur Docker Hub (Module 5)
+
+Implémentation d'un pipeline CI/CD avec GitHub Actions (Module 6)
+
+Le Module 7 (Déploiement d'infrastructure avec VMs et load balancing) n'a pas été réalisé 

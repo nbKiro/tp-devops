@@ -1,0 +1,5 @@
+ **Repository GitHub (code source + workflow CI/CD) :**
+https://github.com/nbKiro/tp-devops-mobile-api
+
+ **Image Docker Hub publiée :**
+https://hub.docker.com/repository/docker/kirobgt/mobile-php-api/general
